@@ -11,4 +11,4 @@ Analista focado em Blue Team, SIEM, Threat Detection e Python Automation.
 
 ## GitHub Activity
 
-![Snake animation](https://raw.githubusercontent.com/Danilo-Albuquerque-cybersec-81/Danilo-Albuquerque-cybersec-81/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/daniloalbuquerque-cybersec-81/Danilo-Albuquerque-cybersec-81/output/github-contribution-grid-snake.svg)
