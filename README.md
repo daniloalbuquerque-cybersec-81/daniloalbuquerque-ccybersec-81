@@ -5,6 +5,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/daniloalbuquerque-cybersec-81/Danilo-Albuquerque-cybersec-81/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
